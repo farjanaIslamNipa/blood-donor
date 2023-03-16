@@ -1,0 +1,144 @@
+{
+    "items": [
+      {
+        "id": 0,
+        "name": "Carrots"
+      },
+      {
+        "id": 2,
+        "name": "Banana"
+      },
+      {
+        "id": 0,
+        "name": "Cakes"
+      },
+      {
+        "id": 4,
+        "name": "cdzc sd",
+        "complete": true
+      }
+    ],
+    "tipsCardData": [
+      {
+        "headings": "How you prepare",
+        "listData": [
+          "In good health.",
+          "At least 16 or 17 years old, depending on the law in your state. Some states allow legal minors to donate with parent permission. While there's no legal upper age limit, policies may vary between individual donor centers.",
+          "At least 110 pounds (about 50 kilograms).",
+          "Able to pass the physical and health-history assessments.",
+          "Able to pass the physical and health-history assessments."
+        ]
+      },
+      {
+        "headings": "Before the procedure",
+        "listData": [
+          "Anyone who has used injected drugs, steroids or another substance not prescribed by a health care provider in the past three months",
+          "Men who have had sexual contact with other men in the past three months",
+          "Anyone who has a congenital coagulation factor deficiency",
+          "Anyone who has had a positive test for HIV"
+        ]
+      },
+      {
+        "headings": "The day before2",
+        "listData": [
+          "Have an iron-rich diet such as beans, spinach or meat, poultry.",
+          "Have an iron-rich diet such as beans, spinach or meat, 1.",
+          "Have an iron-rich diet such as beans, spinach or meat, 2."
+        ]
+      }
+    ],
+    "blogsData": [
+      {
+        "donarName": "Md Kamal Ahamed",
+        "donarAge": 30,
+        "donarphone": "017366402635",
+        "donarInfo": "The need for blood affects us all. Eight out of ten people need blood or blood products at some time in our lives. One out of every ten patients in hospital requires blood transfusion. The number of blood donations that patients receive depends on their medical condition. Although an average of three donations is transfused to a patient, some patients require many more.",
+        "id": 1,
+        "totalDonateTime": 5,
+        "bloodGroup": "o+"
+      },
+      {
+        "donarName": "Joyonto Karmakar",
+        "donarAge": 26,
+        "donarphone": "017366402635",
+        "donarInfo": "The current study was conducted in six geographically and socioeconomically distinct areas in Jiangsu Province, China. Jiangsu, which is located in the eastern coastal area in China. Although its economic and social development is higher than the average level of China, large geographical disparities exist across different cities. Six prefecture-level cities, whose economic development varied between the southern, central, and northern Jiangsu, were randomly selected. Mobile blood collection vehicles used in these cities were selected as the recruitment sites. Before the field survey, we recruited about 20 medical students to be trained as surveyors by the local administrators and research team members. In our university, community services are required. ",
+        "id": 2,
+        "totalDonateTime": 5,
+        "bloodGroup": "b+",
+        "donateHistory": [
+          {
+            "lastGivingDate": "2018-12-10T13:49:51.141Z",
+            "TotalGiving": 5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "donarName": "Hossain Ballayet",
+        "donarAge": 30,
+        "donarphone": "017366402635",
+        "donarInfo": "Blood is essential to help patients survive surgeries, cancer treatment, chronic illnesses, and traumatic injuries. This lifesaving care starts with one person making a generous donation. The need for blood is constant. But only about 3% of age-eligible people donate blood yearly",
+        "id": 3,
+        "totalDonateTime": 5,
+        "donateHistory": [
+          {
+            "lastGivingDate": "2019-12-10T13:49:51.141Z",
+            "TotalGiving": 5,
+            "status": true
+          }
+        ],
+        "bloodGroup": "ab+"
+      },
+      {
+        "donarName": "KHalid Hossain Tarif",
+        "bloodGroup": "ab+",
+        "donarAge": "26",
+        "donarInfo": "Donate Blood Save Life",
+        "donarId": "66",
+        "donarphone": 1777897456,
+        "totalDonateTime": "7",
+        "donateHistory": [
+          {
+            "lastGivingDate": "2020-12-10T13:49:51.141Z",
+            "TotalGiving": 5,
+            "status": true
+          }
+        ],
+        "id": 4
+      },
+      {
+        "donarName": "Akil Jawad",
+        "bloodGroup": "a+",
+        "donarAge": "29",
+        "donarInfo": "Mara Kha!!",
+        "donarId": "5",
+        "donarphone": 1785604316,
+        "totalDonateTime": "2",
+        "donateHistory": [
+          {
+            "lastGivingDate": "2021-12-10T13:49:51.141Z",
+            "TotalGiving": 5,
+            "status": true
+          }
+        ],
+        "id": 5
+      },
+      {
+        "donarName": "Amatuz Zahura Lucky",
+        "bloodGroup": "a-",
+        "donarAge": "28",
+        "donarInfo": "Donate Blood To save our next generation",
+        "donarId": "6",
+        "donarphone": 1946945516,
+        "totalDonateTime": "1",
+        "donateHistory": [
+          {
+            "lastGivingDate": "2022-12-10T13:49:51.141Z",
+            "TotalGiving": 5,
+            "status": false
+          }
+        ],
+        "id": 6
+      }
+    ]
+  }
